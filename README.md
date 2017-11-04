@@ -1,20 +1,12 @@
-<i class="fa fa-file-text fa-2x"></i> MAGICMIND TEAM 开发手记
+<i class="fa fa-file-text fa-2x"></i> MAGICMIND TEAM 技术参考
 ----
 > 进入主页：https://mmpublic.github.io/tech-doc/
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-<!-- code_chunk_output -->
 
-* [参考链接](#参考链接)
-* [文档写作方法](#文档写作方法)
-	* [工具](#工具)
-	* [工作流程](#工作流程)
-
-<!-- /code_chunk_output -->
 ## 参考链接
 * Markdown 格式说明：https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/
 * 查看图标字体：http://fontawesome.io/icons/
 
-## 文档写作方法
+## 文档写作
 ### 工具
 * vscode 
 * github & gitio
@@ -28,4 +20,7 @@
 4. 提交到github
 
 
-www.magicmind.cn
+## 本项目结构说明
+* 文档生成和在线预览: https://docsify.js.org/#/zh-cn/quickstart
+
+> www.magicmind.cn
