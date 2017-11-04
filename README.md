@@ -12,9 +12,9 @@
 	* [工作流程](#工作流程)
 
 <!-- /code_chunk_output -->
-
 ## 参考链接
-* 
+* Markdown 格式说明：https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/
+* 查看图标字体：http://fontawesome.io/icons/
 
 ## 文档写作方法
 ### 工具
@@ -29,3 +29,5 @@
 > 右键在预览窗口点击，选择 HTML -> HTML(cdn hosted)
 4. 提交到github
 
+
+www.magicmind.cn
