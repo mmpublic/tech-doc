@@ -1,6 +1,7 @@
+@import "./style.css"
+
 ## Welcome to GitHub Pages
 
-@import "./style.css"
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
