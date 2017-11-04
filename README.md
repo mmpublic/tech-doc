@@ -1,5 +1,4 @@
-<i class="fa fa-file-text fa-2x"></i> 
-MAGICMIND TEAM 技术参考
+<i class="fa fa-file-text fa-2x"></i> MAGICMIND TEAM 技术参考
 ----
 > 首页：https://mmpublic.github.io/tech-doc/
 
