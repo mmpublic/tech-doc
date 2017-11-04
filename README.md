@@ -1,6 +1,6 @@
 <i class="fa fa-file-text fa-2x"></i> MAGICMIND TEAM 技术参考
 ----
-> 进入主页：https://mmpublic.github.io/tech-doc/
+> 首页：https://mmpublic.github.io/tech-doc/
 
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
@@ -35,5 +35,3 @@
 
 ## 本项目结构说明
 * 文档生成和在线预览: https://docsify.js.org/#/zh-cn/quickstart
-
-> www.magicmind.cn
