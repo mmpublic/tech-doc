@@ -1,5 +1,3 @@
-@import "./style.css"
-
 <i class="fa fa-file-text fa-2x"></i> MAGICMIND TEAM 开发手记
 ----
 > 进入主页：https://mmpublic.github.io/tech-doc/
